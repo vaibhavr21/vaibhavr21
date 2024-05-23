@@ -1,21 +1,15 @@
 ## Hi there 👋
 
-###
+## <p align="left">Myself Vaibhav Maurya, I am a Frontened Web Developer</p>
 
-<p align="left">Myself Vaibhav Maurya, I am a Frontened Web Developer</p>
+## <p align="left">About Me</p>
 
-###
-
-<p align="left">About Me</p>
-
-###
-
-<p align="left"></p>
+### <p align="left">I am a BTech Computer Science Student. Passionate about staying ahead in web development, constantly learning and collaborating to solve complex challenges.</p>
 
 
-<p align="left">Skills:</p>
+##<p align="left">Skills:</p>
 
-###
+#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
