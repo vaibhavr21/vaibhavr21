@@ -41,7 +41,10 @@
 
 </div>
 
-###
+
+### :fire: My Stats :
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavr21&count_private=true&theme=dark&hide=stars&title=My%20GitHub%20Statistics)](https://github.com/vaibhavr21)
 
 
 
