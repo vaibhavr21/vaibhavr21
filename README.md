@@ -44,7 +44,7 @@
 
 ### :fire: My Stats :
 
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavr21&show_icons=true&theme=radical)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavr21&show_icons=true&theme=radical)]
 
 
 
