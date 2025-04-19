@@ -49,7 +49,3 @@ An e-commerce platform with features like product listing, shopping cart, and or
 - 📧 Email: 
 - 🔗 LinkedIn: 
 - 🐦 Twitter: 
-<!-- Footer Section -->
-<p align="center">
-  <img src=" alt="Footer Image" width="100%" />
-</p>
