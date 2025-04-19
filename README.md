@@ -35,13 +35,13 @@
 ## 🚀 Featured Projects
 Here are some of my notable projects:
 
-### [Task Manager App](https://github.com/vaibhavr21/task-manager-app)
+### [Task Manager App](https://github.com/vaibhavr21)
 A full-stack task manager application built with the MERN stack. Features include user authentication, task CRUD operations, and responsive design.
 
-### [Portfolio Website](https://github.com/vaibhavr21/portfolio-website)
+### [Portfolio Website](https://github.com/vaibhavr21)
 My personal portfolio showcasing my skills, projects, and achievements. Built with React and styled-components.
 
-### [E-commerce Platform](https://github.com/vaibhavr21/e-commerce-platform)
+### [E-commerce Platform](https://github.com/vaibhavr21)
 An e-commerce platform with features like product listing, shopping cart, and order management. Developed using Node.js, Express, and MongoDB.
 
 <!-- Contact Section -->
