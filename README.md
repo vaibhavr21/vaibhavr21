@@ -46,11 +46,10 @@ An e-commerce platform with features like product listing, shopping cart, and or
 
 <!-- Contact Section -->
 ## 📬 Get in Touch
-- 📧 Email: [vaibhav.maurya@example.com](mailto:vaibhav.maurya@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/vaibhav-maurya](https://www.linkedin.com/in/vaibhav-maurya)
-- 🐦 Twitter: [@vaibhav_r21](https://twitter.com/vaibhav_r21)
-
+- 📧 Email: 
+- 🔗 LinkedIn: 
+- 🐦 Twitter: 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://github.com/vaibhavr21/vaibhavr21/blob/main/assets/footer-image.png" alt="Footer Image" width="100%" />
+  <img src=" alt="Footer Image" width="100%" />
 </p>
